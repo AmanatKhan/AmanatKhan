@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# and WPF
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on basic WPF projects
-- 📫 How to reach me: email Instagram: amanat.aziz_ | Discord: AmanatKhan#5642
+- 📫 How to reach me: Instagram: amanat.aziz_ | Discord: AmanatKhan#5642
 
 <!---
 AmanatKhan/AmanatKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
